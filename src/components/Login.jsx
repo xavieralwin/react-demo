@@ -114,7 +114,7 @@ const Login = () => {
                 </div>
 
                 {/* Subtle Decorative Elements */}
-                <p className="mt-8 text-center text-slate-500/50 text-xs tracking-widest">
+                <p className="mt-8 text-center text-slate-500/50 text-xs tracking-widest uppercase">
                     &copy; 2026 Xavier Infotech
                 </p>
             </div>
